@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music"
+    ],
+    [
+      "Fine Arts",
+      "Performance Arts",
+      "Dance"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "legacy_uid": "26072ed1-236d-8318-9f32-7491fc3d4680",
+  "instructors": {
+    "content": [
+      "e0d76f71-bdf0-5ca1-e880-ef82fdff5165"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5e036c2c-42ca-440f-576f-2cf3989b031e",
+    "website": "21m-030-introduction-to-world-music-spring-2013"
+  },
+  "course_title": "Introduction to World Music",
+  "course_description": "This course is an introduction to diverse musical traditions of the world. Music from a wide range of geographical areas is studied in terms of structure, performance practice, social use, aesthetics, and cross-cultural contact. Course work includes hands-on music making, live demonstrations by guest artists, and ethnographic research projects.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.030",
+  "course_image_thumbnail": {
+    "content": "9ea82ddd-a280-a0b6-0068-7e6f8a690f44",
+    "website": "21m-030-introduction-to-world-music-spring-2013"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "3adc790c-0355-4b8a-bf9d-890d16028f8b",
+  "site_short_id": "21m.030-spring-2013",
+  "site_url_path": "courses/21m-030-introduction-to-world-music-spring-2013",
+  "title": "Course Metadata"
+}

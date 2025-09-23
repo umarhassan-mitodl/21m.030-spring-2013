@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 03274c40-0da6-1989-4165-489a1023df52
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: fd8b1083-a1db-4d27-2564-32b5ee16bba8
+  name: Readings and Listening
+  pageRef: /pages/readings-and-listening
+  weight: 20
+- identifier: 57f4bd90-2f53-cd17-d320-c73c7201752d
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: 1e635179-166e-8d2e-eedd-1f3466e4848f
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 40
