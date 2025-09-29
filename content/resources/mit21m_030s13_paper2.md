@@ -4,6 +4,8 @@ description: This file contains information regarding second paper assignment.
 file: /courses/21m-030-introduction-to-world-music-spring-2013/d8e0217fed15e14c44335d4a7c986734_MIT21M_030S13_paper2.pdf
 file_size: 113676
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
