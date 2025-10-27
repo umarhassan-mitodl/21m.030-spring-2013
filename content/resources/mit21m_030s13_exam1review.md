@@ -4,8 +4,6 @@ description: This file contains information regarding midterm review sheet.
 file: /courses/21m-030-introduction-to-world-music-spring-2013/0908df00ba1d601299a4bf5b83eed518_MIT21M_030S13_exam1review.pdf
 file_size: 108978
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of readings and listening assignments
   by lecture session and topic.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -93,15 +91,15 @@ Setting: The Study of Local Musics
 
 ### Videos of Cory Pesaturo, Accordion
 
-KingSnowman. "Tchaikovsky Violin Concerto in D major – Accordion." July 3, 2010. YouTube. Accessed August 20, 2013. [http://www.youtube.com/watch?v=cFCrykBWmUk](http://www.youtube.com/watch?v=cFCrykBWmUk)
+KingSnowman. "Tchaikovsky Violin Concerto in D major – Accordion." July 3, 2010. YouTube. Accessed August 20, 2013. {{% resource_link "3e456ee8-1da0-4ef3-b814-6f3a39a3426e" "http://www.youtube.com/watch?v=cFCrykBWmUk" %}}
 
-———. "Jealousy - Cory Pesaturo & Yasmine Azaiez." October 18, 2011. YouTube. Accessed August 20, 2013. [http://www.youtube.com/watch?v=8aUrj6WYJXg](http://www.youtube.com/watch?v=8aUrj6WYJXg)
+———. "Jealousy - Cory Pesaturo & Yasmine Azaiez." October 18, 2011. YouTube. Accessed August 20, 2013. {{% resource_link "ada2c8f1-34a3-4d3a-ac69-370c631e49a5" "http://www.youtube.com/watch?v=8aUrj6WYJXg" %}}
 
-fengle1000. "Halo Theme – Cory Pesaturo." February 28, 2011. YouTube. Accessed Aug. 20, 2013. [http://www.youtube.com/watch?v=F2si9Fx\_XEI](http://www.youtube.com/watch?v=F2si9Fx_XEI)
+fengle1000. "Halo Theme – Cory Pesaturo." February 28, 2011. YouTube. Accessed Aug. 20, 2013. {{% resource_link "6b1e67d5-b0ab-4499-8f64-f0f888b39129" "http://www.youtube.com/watch?v=F2si9Fx\_XEI" %}}
 
-TRICCIO1000. "Cory Pesaturo - Party Rock Anthem." June 2, 2012. YouTube. Accessed August 20, 2013. [http://www.youtube.com/watch?v=QjTp1cVz3cg](http://www.youtube.com/watch?v=QjTp1cVz3cg)
+TRICCIO1000. "Cory Pesaturo - Party Rock Anthem." June 2, 2012. YouTube. Accessed August 20, 2013. {{% resource_link "01ffb076-f954-4491-bbd0-9d11157f5723" "http://www.youtube.com/watch?v=QjTp1cVz3cg" %}}
 
-Alvydas23. "Cory Pesaturo - winner of Primus Ikaalinen 2011."; July 9, 2011. Accessed August 20, 2013. [http://www.youtube.com/watch?v=TfD3XNa1-6Y](http://www.youtube.com/watch?v=TfD3XNa1-6Y)
+Alvydas23. "Cory Pesaturo - winner of Primus Ikaalinen 2011."; July 9, 2011. Accessed August 20, 2013. {{% resource_link "83ceabaf-03d1-430c-9284-4994ae1d879c" "http://www.youtube.com/watch?v=TfD3XNa1-6Y" %}}
 
 
 {{< tdclose >}}
@@ -117,7 +115,7 @@ Significance: Music's Meaning in Everyday Life (Part I): Senegalese drumming
 {{< tdopen >}}
 
 
-Selections from Tang, Patricia. _Masters of the Sabar: Wolof Griot Percussionists of Senegal_. Temple University Press, 2007. ISBN: 9781592134205. \[Preview with [Google Books](http://books.google.com/books?id=iLuy_dKKRKMC&printsec=frontcover)\]
+Selections from Tang, Patricia. _Masters of the Sabar: Wolof Griot Percussionists of Senegal_. Temple University Press, 2007. ISBN: 9781592134205. \[Preview with {{% resource_link "5a65b77c-a015-4b6e-815a-b0b8c37817bf" "Google Books" %}}\]
 
 *   Chapter 2: "There Once Was a King Called Maysa Waaly Jon: Sabar History, Instruments, Ensemble, and Sound."
 *   Chapter 5: "If a Snake Bites You, You Will Think of Death: Sabar Repertories"
@@ -125,7 +123,7 @@ Selections from Tang, Patricia. _Masters of the Sabar: Wolof Griot Percussionist
 
 {{% resource_link 4cb3e3e3-bb01-8253-f5ab-f5a88cedbfaa "Sabar terms (PDF)" %}}
 
-[Rambax MIT Sabar drumming ensemble](http://rambax.mit.edu/)
+{{% resource_link "9d18ff84-b68f-40e9-a85c-235b4b764b05" "Rambax MIT Sabar drumming ensemble" %}}
 
 
 {{< tdclose >}}
@@ -252,7 +250,7 @@ Balinese gamelan and kecak
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Required concert: MIT Center for Art, Science & Technology [CAST Marathon](http://arts.mit.edu/cast-marathon-concert/)
+Required concert: MIT Center for Art, Science & Technology {{% resource_link "81d4d775-d415-473d-b5d8-f9a8ad346f30" "CAST Marathon" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -289,14 +287,14 @@ Music and Dance (Part II): Hindustani music, Kathak dance
 
 Ruckert, George E. "Rhythm and Drumming," and "Song and Performance." Chapters 4, and 5 in _Music in North India: Experiencing Music, Expressing Culture_. Oxford University Press, 2003, pp. 40–64. ISBN: 9780195139938.
 
-[Chitresh Das Dance Company](http://www.kathak.org/)
+{{% resource_link "3e08b419-d6ab-4352-91e7-feb99c50aef3" "Chitresh Das Dance Company" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-chhandamfan. "Fierce Kathak & Tap- Pt. Chitresh Das & Jason Samuels Smith." August 25, 2007. YouTube. Accessed August 23, 2013. [http://www.youtube.com/watch?v=4sQn5bXbigo](http://www.youtube.com/watch?v=4sQn5bXbigo)
+chhandamfan. "Fierce Kathak & Tap- Pt. Chitresh Das & Jason Samuels Smith." August 25, 2007. YouTube. Accessed August 23, 2013. {{% resource_link "a350d86f-45ef-46ba-bfd4-9f22442cd1d7" "http://www.youtube.com/watch?v=4sQn5bXbigo" %}}
 
 Tracks 14–29 from the CD included with the Ruckert book
 

@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, requirements, grading, and the schedule of lecture topics, primary
   case studies, workshops and demonstrations, exams, and assignment due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,7 +23,7 @@ This course introduces selected musical traditions from around the world. We wil
 
 This course is organized around familiar cultural themes and scenes, and will feature a selection of major case studies. From a disciplinary standpoint, this course serves as an introduction to ethnomusicology, a discipline that draws upon and interacts with several other fields, including historical musicology, anthropology, sociology, and cultural studies. Overall, this course aims to explore music as a form of human expression and as a meaningful aspect of daily life.
 
-This course fulfills both [Humanities, Arts, and Social Sciences—Distribution](http://web.mit.edu/hassreq/) (HASS-D) and [Communication Intensive](http://web.mit.edu/commreq/) (CI-H) requirements for undergraduate degrees. It includes four writing assignments that add up to a minimum of 20 pages (see below for details). Paper 1 will be revised and resubmitted. Students will give two oral presentations during the semester, and significant class time will be devoted to discussion.
+This course fulfills both {{% resource_link "1abcb499-4741-46ac-a545-884a976131e0" "Humanities, Arts, and Social Sciences—Distribution" %}} (HASS-D) and {{% resource_link "02227213-b6f4-4014-98b1-1f9805b80139" "Communication Intensive" %}} (CI-H) requirements for undergraduate degrees. It includes four writing assignments that add up to a minimum of 20 pages (see below for details). Paper 1 will be revised and resubmitted. Students will give two oral presentations during the semester, and significant class time will be devoted to discussion.
 
 The class size is limited to 25 students.
 
@@ -370,7 +368,7 @@ Final project proposal due Session 17
 {{< tdopen >}}
 
 
-Required concert: MIT Center for Art, Science & Technology [CAST Marathon](http://arts.mit.edu/cast-marathon-concert/)
+Required concert: MIT Center for Art, Science & Technology {{% resource_link "81d4d775-d415-473d-b5d8-f9a8ad346f30" "CAST Marathon" %}}
 
 Features renowned guest artists Hauschka, Pamela Z., and Dewa Alit performing solo works and with students in MIT's own Gamelan Galak Tika, Glass Lab Orchestra, Lamine Touré and Rambax.
 
